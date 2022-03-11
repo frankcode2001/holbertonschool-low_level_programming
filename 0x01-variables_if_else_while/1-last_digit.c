@@ -1,6 +1,7 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
+
 /**
  * main - Determine if the last digit of a random number is
  * greater than or less than 5, or is zero..
@@ -28,5 +29,4 @@ int main(void)
 		printf("less than 6 and not 0\n");
 	}
 	return (0);
-
 }
